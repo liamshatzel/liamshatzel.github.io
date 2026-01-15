@@ -1,0 +1,22 @@
+- id: liu2025emergent
+  title: "Emergent Crowds Dynamics from Language-Driven Multi-Agent Interactions"
+  venue: "arXiv preprint, 2025"
+  description: "Emergent crowd dynamics from language-driven multi-agent interactions."
+  arxiv: 2508.15047
+  image: "crowdllm.png"
+  authors:
+    - yliu
+    - liamshatzel
+    - bhaworth
+    - tschneider
+
+- id: ferreira2024deformable
+  title: "Deformable Elliptical Particles for Predictive Mesh-Adaptive Crowds"
+  venue: "ACM SIGGRAPH Conference on Motion, Interaction, and Games (MIG), 2024"
+  description: "Deformable elliptical particles for predictive mesh-adaptive crowds."
+  project_page: "https://dl.acm.org/doi/abs/10.1145/3677388.3696329"
+  image: "deformable.png"
+  authors:
+    - dferreira
+    - liamshatzel
+    - bhaworth

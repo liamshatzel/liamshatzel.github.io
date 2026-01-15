@@ -1,0 +1,16 @@
+- id: shatzel2025applications
+  title: "Applications of Graph Neural Networks in Simulation vs. Animation"
+  venue: "Jamie Cassels Undergraduate Research Award Symposium"
+  year: "2025"
+  description: "Applications of graph neural networks in simulation vs. animation."
+  image: "gnn.png"
+  pdf: https://dspace.library.uvic.ca/server/api/core/bitstreams/50f01b20-c192-4e1f-ad7f-5052b738c750/content
+
+
+- id: shatzel2022analyzing
+  title: "Analyzing the Accuracy of Agent Representations in Crowd Simulations"
+  venue: "Valerie Kuhne Undergraduate Research Award Symposium"
+  year: "2022"
+  description: "Analyzing the accuracy of agent representations in crowd simulations."
+  image: "representations.png"
+  pdf: https://dspace.library.uvic.ca/server/api/core/bitstreams/c0a836a3-0e71-413d-8d9b-c4f6867a5094/content

@@ -1,0 +1,21 @@
+- company: Motorola Solutions 
+  description: Software Developer. Utilized C++ socket programming in a mission critical system to increase event throughput by 30x, through a parallelized queueing structure. Also ensured lossless operation by implementing concurrent retry logic. Integrated a new flagship hardware device into a legacy codebase using C++ and C#. Successfully worked with stake-holders and team to deploy this integration into production. Owned, built, and shipped an IoT device setup wizard to production. Using Angular, NestJS, Azure IoT Hub, and with Docker. Responsible for architecture, full stack implementation, and stakeholder communication.
+  dates: "Jan 2024 - Present"
+  location: Vancouver, BC (Remote) 
+
+- company: Tradable Bits 
+  description: >-
+    Full stack software developer at <a href="https://blog.google/technology/research/project-starline/">Tradable Bits</a>.  
+    Developed and customized an internal logging tool, utilizing sockets, to capture all outgoing API calls from the platform, amounting to thousands of daily calls. Reduced debugging time by several developer hours. Implemented an authentication system using OAuth 2.0 protocols to allow users to authenticate and save their session over many campaigns. This functionality extends across all campaigns, used by hundreds of accounts and seen by thousands of users. Worked closely with CSMs, designers and clients to build out to build out tower displays, showcased at high-profile events like Lollapalooza and NASCAR street race. These displays garnered visibility from thousands of attendees.
+
+  dates: "May 2023 - Aug 2023"
+  location: Vancouver, BC 
+
+# TODO: ADD PRESENTATION SLIDES
+- company: GAIDG Lab 
+#- Valerie Kuhne Undergraduate Research Award
+  description: >-
+    Research Intern in the <a href="https://onlineacademiccommunity.uvic.ca/gaidglab/">GAIDG Lab</a>. 
+    Worked on representations of humans in crowd simulations. Developed a novel method to represent agents using deformable ellipses, which was <a href="https://dl.acm.org/doi/abs/10.1145/3677388.3696329">published</a> and presented at SIGGRAPH MIG 2024.
+  dates: "May 2022 - Aug 2022"
+  location: Victoria, BC
