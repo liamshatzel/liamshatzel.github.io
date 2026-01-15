@@ -3,6 +3,9 @@
 <title>{{ page.title | default: site.title }}</title>
 <meta name="description" content="{{ page.description | default: site.description }}">
 
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="{{ '/images/favicon.png' | relative_url }}">
+
 <!-- Google Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -23,6 +26,9 @@ MathJax = {
 
 <!-- Academicons (for Google Scholar, etc.) -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+<!--Umami-->
+<script defer src="https://cloud.umami.is/script.js" data-website-id="ab0f1c7d-68ec-45a6-b1ab-378de802e973"></script>
 
 <!-- Google Analytics -->
 {% if site.google_analytics and jekyll.environment == 'production' %}
