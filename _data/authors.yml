@@ -1,0 +1,21 @@
+liamshatzel:
+  first_name: Liam
+  last_name: Shatzel
+  website: https://liamshatzel.com
+  is_me: true
+
+dferreira:
+  first_name: Dominic
+  last_name: Ferreira
+
+bhaworth:
+  first_name: Brandon
+  last_name: Haworth
+
+yliu:
+  first_name: Yibo
+  last_name: Liu
+
+tschneider:
+  first_name: Teseo
+  last_name: Schneider

@@ -1,0 +1,93 @@
+- id: spacecal
+  title: "SpaceCal: A Spatial Time-Block Calendar"
+  description: "A mixed-reality calendar that represents tasks as 3D time blocks arranged in the user's physical space."
+  url: "#"
+  image: "spacecal.png"
+  video: "space-cal.mp4"
+  tags:
+    - "Mixed Reality"
+    - "AR/VR"
+    - "Task Management"
+    - "Spatial Computing"
+    - "UX Design"
+
+- id: embedded-todo
+  title: "Embedded In-Situ To-Do Tasks"
+  description: "Explores whether placing tasks directly in a user's physical environment (e.g., attaching reminders to relevant objects) improves task completion compared to traditional to-do list apps."
+  url: "https://github.com/liamshatzel/spatial-todo"
+  image: "embedded-todo.png"
+  video: "spatial-todo-short.mp4"
+  tags:
+    - "Mixed Reality"
+    - "AR/VR"
+    - "Task Management"
+    - "Spatial Memory"
+    - "UX Research"
+    - "HCI"
+
+- id: fluid-gnn
+  title: "Learning Fluid Simulation with Graph Neural Networks"
+  description: "Investigates using graph neural networks to approximate fluid dynamics more efficiently than traditional CFD methods. Based on DeepMind's Learning to Simulate framework." 
+  url: "https://github.com/TrojanTroutTechnologies/GNN"
+  image: "fluid-gnn.png"
+  video: "gnn-fluid.mp4"
+  tags:
+    - "Machine Learning"
+    - "Graph Neural Networks"
+    - "Fluid Simulation"
+    - "Physics Simulation"
+    - "Real-time Rendering"
+    - "Deep Learning"
+
+- id: maka-resume
+  title: "Maka Resume"
+  description: "A modular, block-based resume builder inspired by LEGO. It lets users rapidly assemble and tailor resumes for each job using AI-assisted matching while preserving their own voice, intent, and full editorial control."
+  url: "https://makaresume.com/"
+  image: "maka-resume.png"
+  video: "maka-resume.mp4"
+  tags:
+    - "Productivity Tools"
+    - "Resume Builder"
+    - "AI"
+    - "Web Application"
+    - "Design Tools"
+
+- id: caption-generator
+  title: "Caption Generator"
+  description: "A web-based tool that automatically transcribes uploaded videos and generates time-aligned on-screen captions. Built with Flask, speech-to-text, and video compositing (moviepy)."
+  url: "https://github.com/liamshatzel/transcription/tree/main"
+  image: "caption-generator.png"
+  video: "video-captioner.mp4"
+  tags:
+    - "Web Application"
+    - "Video Processing"
+    - "Speech-to-Text"
+    - "NLP"
+    - "Flask"
+    - "Accessibility"
+  
+- id: examix
+  title: "Examix"
+  description: "An intuitive, searchable exam bank that uses OCR to extract questions from uploaded exams and organize them by course, difficulty, and topic."
+  url: "https://github.com/examix/examix"
+  image: "examix.png"
+  tags:
+    - "Web Application"
+    - "OCR"
+    - "Education"
+    - "Flask"
+    - "React"
+    - "Document Processing"
+
+- id: focuspoint
+  title: "FocusPoint 2.0"
+  description: "An accessibility-focused web application that won first place in the accessibility category at the Google Student Developer Club Hackathon. Built with Next.js and TypeScript to improve digital accessibility and user experience."
+  url: "https://github.com/liamshatzel/focuspoint2.0/tree/main"
+  image: "focuspoint.png"
+  tags:
+    - "Web Application"
+    - "Next.js"
+    - "TypeScript"
+    - "Accessibility"
+    - "React"
+    - "Hackathon"
