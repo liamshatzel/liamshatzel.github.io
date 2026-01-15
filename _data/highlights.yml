@@ -2,7 +2,6 @@
   title: "SpaceCal: A Spatial Time-Block Calendar"
   description: "A mixed-reality calendar that represents tasks as 3D time blocks arranged in the user's physical space."
   url: "#"
-  image: "spacecal.png"
   video: "space-cal.mp4"
   tags:
     - "Mixed Reality"
@@ -15,7 +14,6 @@
   title: "Embedded In-Situ To-Do Tasks"
   description: "Explores whether placing tasks directly in a user's physical environment (e.g., attaching reminders to relevant objects) improves task completion compared to traditional to-do list apps."
   url: "https://github.com/liamshatzel/spatial-todo"
-  image: "embedded-todo.png"
   video: "spatial-todo-short.mp4"
   tags:
     - "Mixed Reality"
@@ -29,7 +27,6 @@
   title: "Learning Fluid Simulation with Graph Neural Networks"
   description: "Investigates using graph neural networks to approximate fluid dynamics more efficiently than traditional CFD methods. Based on DeepMind's Learning to Simulate framework." 
   url: "https://github.com/TrojanTroutTechnologies/GNN"
-  image: "fluid-gnn.png"
   video: "gnn-fluid.mp4"
   tags:
     - "Machine Learning"
@@ -43,7 +40,6 @@
   title: "Maka Resume"
   description: "A modular, block-based resume builder inspired by LEGO. It lets users rapidly assemble and tailor resumes for each job using AI-assisted matching while preserving their own voice, intent, and full editorial control."
   url: "https://makaresume.com/"
-  image: "maka-resume.png"
   video: "maka-resume.mp4"
   tags:
     - "Productivity Tools"
@@ -56,7 +52,6 @@
   title: "Caption Generator"
   description: "A web-based tool that automatically transcribes uploaded videos and generates time-aligned on-screen captions. Built with Flask, speech-to-text, and video compositing (moviepy)."
   url: "https://github.com/liamshatzel/transcription/tree/main"
-  image: "caption-generator.png"
   video: "video-captioner.mp4"
   tags:
     - "Web Application"
